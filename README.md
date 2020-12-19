@@ -19,6 +19,9 @@ Features:
 * Improved versions of CAS functions (i.e. **def** is an improved **domain** function)
 * And more!
 
+<h1>Other</h1>
+
+* `limites_en` - Translated version of [limit program](https://tiplanet.org/forum/archives_voir.php?id=9468) by Elmaleh David
 
 
 [Wiki](https://github.com/Decimation/Nspire-Library/wiki)
