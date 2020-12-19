@@ -21,8 +21,8 @@ Features:
 
 <h1>Other</h1>
 
-* `limites_en` - Translated version of [limit program](https://tiplanet.org/forum/archives_voir.php?id=9468) by Elmaleh David
-
+* `limits_en` - Translated version of [limit program](https://tiplanet.org/forum/archives_voir.php?id=9468) by Elmaleh David
+* `limits2_en` - Translated version of [limit program](https://tiplanet.org/forum/archives_voir.php?id=87765) by Yossef Hagege (Nspirecas), Elmaleh David
 
 [Wiki](https://github.com/Decimation/Nspire-Library/wiki)
 
